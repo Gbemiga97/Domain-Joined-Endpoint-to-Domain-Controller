@@ -139,7 +139,7 @@ flowchart LR
 | ---------------------------- | ------------------------------ |
 | *Screenshot: The IPv4 settings of CRF-DC01 with the static address and DNS pointing at itself.* | *Screenshot: The Add Roles and Features wizard with Active Directory Domain Services ticked.* |
 | ![](img/05_new_forest_cobaltridge_lab.png) | ![](img/06_get_addomain_output.png) |
-| *Screenshot: The "Add a new forest" page with cobaltridge.lab entered (no passwords visible).* | *Screenshot: The `Get-ADDomain` output.* |
+| *Screenshot: The "Add a new forest" page with cobaltridge.lab entered.* | *Screenshot: The `Get-ADDomain` output.* |
 
 ---
 
