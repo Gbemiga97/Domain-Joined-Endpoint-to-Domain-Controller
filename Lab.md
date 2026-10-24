@@ -116,7 +116,7 @@ flowchart LR
 
 3. Installed the AD DS role: **Server Manager → Manage → Add Roles and Features**, clicked **Next** until **Server Roles**, ticked **Active Directory Domain Services**, accepted the extra features, and clicked **Install**.
 
-4. When the install finished, clicked the yellow flag at the top of Server Manager and chose **Promote this server to a domain controller**:
+4. When the install finished, I clicked the yellow flag at the top of Server Manager and chose **Promote this server to a domain controller**:
 
    - Chose **Add a new forest**
    - Set the **Root domain name** to `cobaltridge.lab`
@@ -168,7 +168,7 @@ cobaltridge.lab
 
 3. Right-clicked the new `CobaltRidge` OU and created six OUs inside it the same way: `Finance`, `HR`, `IT`, `Computers`, `Groups` and `Disabled-Users`.
 
-4. **Shortcut:** to rebuild this quickly next time, the same structure can be created with a script (it is optional, the point is to learn the clicks first).
+4. **Shortcut:** to rebuild this quickly next time, the same structure can be created with a script.
 
    <details>
    <summary><strong>scripts/01-Create-OUs.ps1</strong> (click to expand)</summary>
