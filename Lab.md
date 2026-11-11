@@ -678,5 +678,3 @@ cobalt-ridge-ad-fundamentals-lab/
 > This lab is for learning. Do not run these steps on a real company's domain, and before publishing screenshots, check that no password or prompt is visible.
 
 ---
-
-*This project is the entry-level hands-on track for Active Directory administration, built entirely on VMware Workstation with a fictional bank as the scenario. Every section is meant to be repeatable by a beginner, with a test and a visible result for each rule that was set.*
