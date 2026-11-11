@@ -46,4 +46,6 @@ flowchart LR
 
 *I never give a person access to a folder directly. I put people in groups and give the group access. When someone changes jobs, I change their groups and the access follows.*
 
+
+<a href="https://github.com/Gbemiga97/IAM_Portfolio/tree/main/EntraID-SCIM-Provisioning-Integration">Lab</a>
 ---
